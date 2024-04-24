@@ -16,7 +16,6 @@ I'm Harshit Ojha, an Associate Engineer at Nagarro with a passion for backend de
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-  <img src="https://img.icons8.com/color/48/000000/dot-net.png"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
   <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png"/>
@@ -26,5 +25,5 @@ I'm Harshit Ojha, an Associate Engineer at Nagarro with a passion for backend de
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/postman-api.png"/>
+  <img src="https://img.icons8.com/color/48/000000/postman.png"/>
 </p>
