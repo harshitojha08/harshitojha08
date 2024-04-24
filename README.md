@@ -16,6 +16,7 @@ I'm Harshit Ojha, an Associate Engineer at Nagarro with a passion for backend de
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
+  <img src="https://img.icons8.com/color/48/000000/dotnet.png"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
   <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png"/>
