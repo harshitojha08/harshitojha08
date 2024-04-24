@@ -1,30 +1,30 @@
 ### Hello World! 👋
 
-I'm a ECE student who is passionate about writing code, solving mathematical problems, and building software.
+I'm Harshit Ojha, an Associate Engineer at Nagarro with a passion for backend development and software engineering.
 
-- 🔭 I’m currently a ECE student at FET - GKV.
-- 📚 I’m currently learning **Data Structures and Algorithms. && OOPs**.
-- 👯 I’m looking to collaborate on **Open Source Project** || **Startup Idea's**.
+- 🔭 I’m currently working on building APIs in ASP.NET and designing databases using MySQL Workbench.
+- 🌱 I’m currently learning about microservices architecture and DevOps practices.
+- 💬 Ask me about .NET technologies, React.js, Angular, Docker, Jenkins, and more!
 
 ## Connect with me:
 
 <p align="left">
-<a href = "https://www.linkedin.com/in/harshit-ojha-4913181bb/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/the_harshit_ojha/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+  <a href="https://www.linkedin.com/in/harshit-ojha-4913181bb/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href="https://www.instagram.com/the_harshit_ojha/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://www.php.net" target="_blank"> <img src="https://img.icons8.com/dusk/48/000000/php-logo.png" alt="php"/> </a>
+  <img src="https://img.icons8.com/color/48/000000/dot-net.png"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png"/>
+  <img src="https://img.icons8.com/color/48/000000/jenkins.png"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql.png"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img src="https://img.icons8.com/color/48/000000/postman-api.png"/>
 </p>
